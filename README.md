@@ -4,7 +4,7 @@ This project classifies images using a Convolutional Neural Network (CNN) model 
 
 ## Project Overview
 
-This model classifies images into different categories using a dataset (e.g., CIFAR-10, custom dataset). The goal of this project is to apply deep learning techniques to achieve high classification accuracy.
+This model classifies images into different categories using an MNIST dataset. The goal of this project is to apply deep learning techniques to achieve high classification accuracy.
 
 ## Features
 
