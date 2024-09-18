@@ -15,7 +15,14 @@ This model classifies images into different categories using a dataset (e.g., CI
 
 ## Setup Instructions
 
+### Install Dependencies
+```bash 
+pip install -r requirements.txt
+```
+
 ### Clone the repository
 
 ```bash
 git clone https://github.com/Aryan22145/Image-Classification.git
+```
+
