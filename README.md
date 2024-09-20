@@ -26,5 +26,6 @@ git clone https://github.com/Aryan22145/Image-Classification.git
 ```bash 
 pip install -r requirements.txt
 ```
-
+### Results
+Achieved an accuracy of over 99%.
 
