@@ -21,10 +21,18 @@ This model classifies images into different categories using an MNIST dataset. T
 git clone https://github.com/Aryan22145/Image-Classification.git
 ```
 
+### Change the directory
+```bash
+cd Image-Classification
+```
 
 ### Install Dependencies
 ```bash 
 pip install -r requirements.txt
+```
+### Run the file
+```bash
+jupyter notebook MNIST.ipynb
 ```
 ### Results
 Achieved an accuracy of over 99%.
