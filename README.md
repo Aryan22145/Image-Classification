@@ -43,10 +43,10 @@ pip install -r requirements.txt
 jupyter notebook MNIST.ipynb
 ```
 ## Results
-  -The model achieved an accuracy of over 99% on the MNIST dataset, indicating its effectiveness in recognizing handwritten digits. The following metrics were observed:
+  The model achieved an accuracy of over 99% on the MNIST dataset, indicating its effectiveness in recognizing handwritten digits. The following metrics were observed:
 
--Training Accuracy: 99.5%
--Validation Accuracy: 99.2%
--Test Accuracy: 99.1%
+Training Accuracy: 99.5%
+Validation Accuracy: 99.2%
+Test Accuracy: 99.1%
 ## License
 This project is licensed under Apache
